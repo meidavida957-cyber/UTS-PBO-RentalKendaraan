@@ -529,7 +529,7 @@ Hal ini membantu mengatur akses terhadap data yang terdapat di dalam object.
 
 ---
 
-# 🔀 Penerapan If-Else
+# Penerapan If-Else
 
 Percabangan `if-else` digunakan untuk menentukan diskon berdasarkan lama sewa.
 
@@ -647,11 +647,7 @@ screenshots/
 
 File:
 
-```text
-screenshots/menu-utama.png
-```
-
-![Menu Utama](screenshots/menu-utama.png)
+<img width="253" height="83" alt="Screenshot 2026-09-28 001905" src="https://github.com/user-attachments/assets/1990a7a7-30bf-465f-8a15-7f2fcebe7caf" />
 
 Screenshot ini menunjukkan tampilan awal program ketika dijalankan.
 
@@ -668,11 +664,7 @@ Menu yang tersedia:
 
 File:
 
-```text
-screenshots/daftar-kendaraan.png
-```
-
-![Daftar Kendaraan](screenshots/daftar-kendaraan.png)
+<img width="280" height="253" alt="Screenshot 2026-09-28 002008" src="https://github.com/user-attachments/assets/26d3a195-ad6a-48ed-aec9-5c6dfdfd8d0d" />
 
 Screenshot ini menunjukkan data kendaraan yang tersedia pada sistem, termasuk jenis, merk, nomor plat, harga sewa, dan informasi tambahan kendaraan.
 
@@ -682,17 +674,13 @@ Screenshot ini menunjukkan data kendaraan yang tersedia pada sistem, termasuk je
 
 File:
 
-```text
-screenshots/hasil-sewa.png
-```
-
-![Hasil Sewa](screenshots/hasil-sewa.png)
+<img width="218" height="83" alt="Screenshot 2026-09-28 002056" src="https://github.com/user-attachments/assets/1da36960-8a97-4776-bfb3-6b070235c3fe" />
 
 Screenshot ini menunjukkan hasil perhitungan rental kendaraan berdasarkan lama sewa dan diskon yang diperoleh.
 
 ---
 
-# 🧪 Contoh Penggunaan Program
+# Contoh Penggunaan Program
 
 ### Contoh 1 — Melihat Daftar Kendaraan
 
