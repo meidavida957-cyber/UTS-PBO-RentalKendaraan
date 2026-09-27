@@ -164,7 +164,7 @@ Class ini berisi:
 
 ---
 
-# ▶️ Cara Menjalankan Program
+#  Cara Menjalankan Program
 
 ## 1. Membuka Project di NetBeans
 
@@ -284,7 +284,7 @@ Screenshot hasil menu ini diletakkan pada:
 screenshots/daftar-kendaraan.png
 ```
 
-![Daftar Kendaraan](screenshots/daftar-kendaraan.png)
+![Daftar Kendaraan](<img width="344" height="274" alt="Screenshot 2026-09-27 235044" src="https://github.com/user-attachments/assets/e1114425-eefe-4f55-bf58-2a59cc06a1f1" />)
 
 Screenshot tersebut menunjukkan tampilan daftar kendaraan yang tersedia pada sistem.
 
@@ -357,7 +357,7 @@ Screenshot hasil perhitungan harga sewa diletakkan pada:
 screenshots/hasil-sewa.png
 ```
 
-![Hasil Perhitungan Sewa](screenshots/hasil-sewa.png)
+![Hasil Perhitungan Sewa](<img width="331" height="245" alt="Screenshot 2026-09-27 235135" src="https://github.com/user-attachments/assets/0f7044bc-2424-4e9f-b534-832b1bc2845c" />)
 
 Screenshot tersebut menunjukkan hasil perhitungan harga sewa kendaraan, termasuk harga normal, potongan, dan total pembayaran.
 
@@ -407,7 +407,7 @@ Kemudian program berhenti.
 
 ---
 
-# 🧩 Penerapan Konsep PBO
+#  Penerapan Konsep PBO
 
 Project ini dibuat dengan menerapkan beberapa konsep utama Pemrograman Berorientasi Objek.
 
